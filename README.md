@@ -3,3 +3,4 @@
 ---
 - App.js ——测试 html2canvas 
 - Appp.js ——测试 useReducer
+- reverse.js —— 反向代理
