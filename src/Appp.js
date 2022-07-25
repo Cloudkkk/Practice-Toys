@@ -29,7 +29,7 @@ export default function APPP() {
 
 function Child1(props){
     let dispatch = props.dispatch;
-    console.log(dispatch);
+    // console.log(dispatch);
 return (
     <>
     <button onClick={()=>{dispatch('ADD1')}}  > change 1</button>
